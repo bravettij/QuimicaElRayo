@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuimicaElRayo/static/css/main.af75b3c8.chunk.css",
+    "main.js": "/QuimicaElRayo/static/js/main.ba2c7a7c.chunk.js",
+    "main.js.map": "/QuimicaElRayo/static/js/main.ba2c7a7c.chunk.js.map",
+    "runtime-main.js": "/QuimicaElRayo/static/js/runtime-main.308a2208.js",
+    "runtime-main.js.map": "/QuimicaElRayo/static/js/runtime-main.308a2208.js.map",
+    "static/js/2.50b9243c.chunk.js": "/QuimicaElRayo/static/js/2.50b9243c.chunk.js",
+    "static/js/2.50b9243c.chunk.js.map": "/QuimicaElRayo/static/js/2.50b9243c.chunk.js.map",
+    "static/js/3.574531d4.chunk.js": "/QuimicaElRayo/static/js/3.574531d4.chunk.js",
+    "static/js/3.574531d4.chunk.js.map": "/QuimicaElRayo/static/js/3.574531d4.chunk.js.map",
+    "index.html": "/QuimicaElRayo/index.html",
+    "static/css/main.af75b3c8.chunk.css.map": "/QuimicaElRayo/static/css/main.af75b3c8.chunk.css.map",
+    "static/js/2.50b9243c.chunk.js.LICENSE.txt": "/QuimicaElRayo/static/js/2.50b9243c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.308a2208.js",
+    "static/js/2.50b9243c.chunk.js",
+    "static/css/main.af75b3c8.chunk.css",
+    "static/js/main.ba2c7a7c.chunk.js"
+  ]
+}
